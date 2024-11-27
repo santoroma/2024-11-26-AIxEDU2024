@@ -3,7 +3,7 @@ format:
     revealjs:
         title: "From training KPIs to learning KPIs"
         subtitle: "Effectiveness in learning processes through predictive analytics and data-based tutoring actions"
-        embed-resources: true
+        embed-resources: false
         mermaid:
           theme: dark
         date-format: iso
